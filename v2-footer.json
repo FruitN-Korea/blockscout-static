@@ -1,9 +1,11 @@
-[{
-		"title": "Applications",
-		"links": [{
-        "text": "Seek Trace",
-        "url": "https://www.seekscm.com"
-      }
-    ]  
-	}
+[
+   {
+      "title":"Applications",
+      "links":[
+         {
+            "text":"Seek Trace",
+            "url":"https://www.seekscm.com"
+         }
+      ]
+   }
 ]
