@@ -1,13 +1,14 @@
-[{
-		"title": "Seek Chain",
-		"url": "https://explorer.seekscanner.com",
-		"group": "Mainnets",
-		"isActive": true
-	},
-	{
-		"title": "Seek Chain",
-		"url": "https://testnet-explorer.seekscanner.com",
-		"group": "Testnets",
-    "isActive": true
-	}
+[
+   {
+      "title":"Seek Chain",
+      "url":"https://explorer.seekscanner.com",
+      "group":"Mainnets",
+      "isActive":true
+   },
+   {
+      "title":"Seek Chain",
+      "url":"https://testnet-explorer.seekscanner.com",
+      "group":"Testnets",
+      "isActive":true
+   }
 ]
